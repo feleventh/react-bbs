@@ -1,7 +1,8 @@
 {
   "name": "vue-cli-webpack-demo",
   "version": "1.0.0",
-  "description": "A react.js project",
+  "description": "A react.js webpack template project",
+  "keywords": ["react", "webpack"],
   "author": "张驰 <feleventh@hotmail.com>",
   "private": true,
   "scripts": {
